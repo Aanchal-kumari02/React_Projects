@@ -5,6 +5,12 @@
   text-align: center;
 }
 
+body{
+  background-image: url('https://images.unsplash.com/photo-1544847558-3ccacb31ee7f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -39,4 +45,9 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.custom-table{
+  height: 300px;
+  overflow: scroll;
 }
